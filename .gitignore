@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+stdout.log
+stderr.log
+digest_*.html
+config.yaml
+com.jobdigest.daily.plist
+setup.sh
