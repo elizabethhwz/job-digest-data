@@ -1,407 +1,398 @@
 [
   {
-    "title": "Artificial Intelligence Engineer",
-    "company": "Venture Up",
-    "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-venture-up-4420437157",
-    "description": "",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "id": "9b176db04112eb2a2ab60409c637577d"
-  },
-  {
-    "title": "Applied AI Engineer at Innovative AI simulation startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-innovative-ai-simulation-startup-at-jack-jill-4419076012",
+    "title": "AI/ML Engineer",
+    "company": "Ello",
+    "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-ello-4420613175",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "71c0f6393b5e060a89e50b506885b97a"
+    "id": "3edbff0cee9114d400e52a0bf2cc3e0f"
   },
   {
-    "title": "Applied AI Engineer",
-    "company": "Tata Consultancy Services",
-    "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-tata-consultancy-services-4418896481",
-    "description": "",
-    "location": "Cupertino, CA",
-    "source": "LinkedIn",
-    "id": "ea093857d4c476de819a14eb1639fbff"
-  },
-  {
-    "title": "AI Engineer, Agent Platform",
-    "company": "NewsBreak",
-    "url": "https://www.linkedin.com/jobs/view/ai-engineer-agent-platform-at-newsbreak-4420208695",
-    "description": "",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "id": "834638af35dffeaac03d4c0b3f0c637f"
-  },
-  {
-    "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4419056816",
+    "title": "Software Engineer, AI",
+    "company": "Convex",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-convex-4420611281",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "e02dcab33bf76eb8f55a357463ea4c32"
+    "id": "67d2940ef415a58ece8c40766e0054b4"
   },
   {
-    "title": "AI Engineer, Computer Use Agents, Digital Optimus",
-    "company": "Tesla",
-    "url": "https://www.linkedin.com/jobs/view/ai-engineer-computer-use-agents-digital-optimus-at-tesla-4420206854",
-    "description": "",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "id": "1583a1c3e73a186d11602df79943b62d"
-  },
-  {
-    "title": "AI Agent Engineer",
-    "company": "Jobright.ai",
-    "url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-at-jobright-ai-4418859899",
-    "description": "",
-    "location": "Cupertino, CA",
-    "source": "LinkedIn",
-    "id": "af097240385b5e28084d36229076ae3f"
-  },
-  {
-    "title": "AI Research Engineer \u2013 Agentic AI",
-    "company": "Bosch USA",
-    "url": "https://www.linkedin.com/jobs/view/ai-research-engineer-%E2%80%93-agentic-ai-at-bosch-usa-4414579758",
-    "description": "",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "id": "7cd9b5f2f4ea31f831e6ee6438afc5b3"
-  },
-  {
-    "title": "Software Engineer, AI Inference CoDesign",
-    "company": "Tesla",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-inference-codesign-at-tesla-4420220572",
-    "description": "",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "id": "a3cbc1eedb4d56d134cff358fa961bd7"
-  },
-  {
-    "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
-    "company": "Eli Lilly and Company",
-    "url": "https://www.linkedin.com/jobs/view/engineer-mlops-scientific-platforms-data-foundry-at-eli-lilly-and-company-4420290184",
+    "title": "Software Engineer, AI Studio",
+    "company": "Asana",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-asana-4417695559",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "8ef7727d0d45ab939d86674eac0b2cfc"
+    "id": "9daccb07b7360fbbfe1b6f408958d139"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Docusign",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4420529554",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "ea288a8d038500cf3e766fd68b9048ee"
+  },
+  {
+    "title": "Machine Learning Inference Engineer",
+    "company": "Oscar",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-inference-engineer-at-oscar-4417661977",
+    "description": "",
+    "location": "San Francisco County, CA",
+    "source": "LinkedIn",
+    "id": "fc4aeaddc168348650690788a2e63558"
+  },
+  {
+    "title": "Machine Learning Engineer - Foundation Models for Biology",
+    "company": "Prima Mente",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-foundation-models-for-biology-at-prima-mente-4420907616",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "55f2e0d43ee11a244fa9d6db1601677e"
+  },
+  {
+    "title": "Backend/AI Engineer",
+    "company": "Reducto",
+    "url": "https://www.linkedin.com/jobs/view/backend-ai-engineer-at-reducto-4339144508",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "69ba38a282ae12d613278c8431e5738d"
+  },
+  {
+    "title": "Machine Learning Engineer [33079]",
+    "company": "Stealth Startup",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-33079-at-stealth-startup-4417911995",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "35fd6d0103e5375f1b902fa49973992a"
+  },
+  {
+    "title": "Autonomy Engineer - ML & DL Infrastructure",
+    "company": "Skydio",
+    "url": "https://www.linkedin.com/jobs/view/autonomy-engineer-ml-dl-infrastructure-at-skydio-4411673870",
+    "description": "",
+    "location": "San Mateo, CA",
+    "source": "LinkedIn",
+    "id": "d3e193796e9ee0dd49b9739e8090eab6"
+  },
+  {
+    "title": "Software Engineer, AI Data & Evaluation",
+    "company": "Mercor",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-data-evaluation-at-mercor-4420693807",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "359fdc2a5094964951a9abc7552d767c"
+  },
+  {
+    "title": "ML Engineer, Data Pipeline",
+    "company": "Stand",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-data-pipeline-at-stand-4407112278",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "4253813fa370b32c8e75d60f9071c44d"
   },
   {
     "title": "AI Software Engineer",
     "company": "Venture Up",
-    "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-venture-up-4420286696",
+    "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-venture-up-4420948271",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "5482962c847b73c4a9bb086ce40dd6f6"
+    "id": "11c75f73420021e2fb910c76e75eddeb"
   },
   {
-    "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-yc-backed-ai-startup-for-clean-energy-discovery-at-jack-jill-4419065401",
+    "title": "Machine Learning Engineer, Speech LLM Training - San Francisco",
+    "company": "Plaud",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-speech-llm-training-san-francisco-at-plaud-4409685912",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "f04a68d5e13acc73a36fc084bcb50859"
+    "id": "836ed1e01d0bf7c1c5aa29059a76e8df"
   },
   {
-    "title": "Data Scientist",
-    "company": "Middesk",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-middesk-4419892108",
+    "title": "Software Engineer, Applied AI",
+    "company": "Commure",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-at-commure-4410363089",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "3386d8c50e0f1f90aa7f07edcb8d37e0"
+    "id": "a947f87c819f5bd6ef64383cc610b665"
+  },
+  {
+    "title": "Machine Learning Engineer - 3D Sensor Simulation",
+    "company": "Zoox",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-3d-sensor-simulation-at-zoox-4211913542",
+    "description": "",
+    "location": "Foster City, CA",
+    "source": "LinkedIn",
+    "id": "6a358ea934b7cbe379491c5e62f1b9cc"
+  },
+  {
+    "title": "AI Engineer \u2013 Video & Intelligent Systems",
+    "company": "VLGE AI",
+    "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-video-intelligent-systems-at-vlge-ai-4419098866",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "f5a28030d7c464e42d791967f2ff8134"
+  },
+  {
+    "title": "Machine Learning Engineer, Inference & Serving (Speech LLM) - San Francisco",
+    "company": "Plaud",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-inference-serving-speech-llm-san-francisco-at-plaud-4409696864",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "b415dd5b3fbe819cdb67ee7dbf7ff2e9"
   },
   {
     "title": "Founding Engineer ($120K - $200K + Equity) at YC-backed AI lending startup",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24120k-%24200k-%2B-equity-at-yc-backed-ai-lending-startup-at-jack-jill-4419072112",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24120k-%24200k-%2B-equity-at-yc-backed-ai-lending-startup-at-jack-jill-4421092215",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "1b7eb6278318f5ba3cc613c7fa5c6446"
+    "id": "6eb1ecb34d89a7628c7136efb6d1a144"
   },
   {
-    "title": "Data Scientist",
-    "company": "American Arbitration Association",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-american-arbitration-association-4420234396",
+    "title": "Machine Learning Engineer, Model Evaluations (Speech LLM) - San Francisco",
+    "company": "Plaud",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-model-evaluations-speech-llm-san-francisco-at-plaud-4409689882",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "80b2891e8af665f59abdd3bc62304308"
+    "id": "9009b5f248646e37918827dac9a4abde"
   },
   {
-    "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%E2%80%93-%24220k-%2B-equity-at-%2460m-series-b-ai-native-insurance-platform-at-jack-jill-4419067256",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "ce2d4602ff78425301a7c0cf9646ebf6"
-  },
-  {
-    "title": "Software Engineer ($150k-$250k + Equity) at Greylock-backed AI startup for physical sciences",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-%24150k-%24250k-%2B-equity-at-greylock-backed-ai-startup-for-physical-sciences-at-jack-jill-4419066357",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "2c6681e2bd54140b0fb55b91efac1ac6"
-  },
-  {
-    "title": "Applied ML Engineer",
-    "company": "Quartermaster",
-    "url": "https://www.linkedin.com/jobs/view/applied-ml-engineer-at-quartermaster-4401804788",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "bc69b5f7f414bb09b7f35b49027caad9"
-  },
-  {
-    "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-ai-engineer-intern-at-san-francisco-ai-agent-startup-at-jack-jill-4419075001",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "548ec79689a3347532ee8703631c73f3"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Samba TV",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-samba-tv-4401794091",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "ea16225638868f220bc55864263e435f"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Air Apps",
-    "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-air-apps-4420424753",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "cd6e1df05ce92a3b672d1a015d071c79"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Pelica Health",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-pelica-health-4418871558",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "90af73a78f94d1e87dae9eaa1b05fed2"
-  },
-  {
-    "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
-    "company": "Lyft",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-algorithms-optimization-fulfillment-at-lyft-4410726944",
-    "description": "",
-    "location": "San Francisco County, CA",
-    "source": "LinkedIn",
-    "id": "82967c749367ca80d6c8f92fb9271c6d"
-  },
-  {
-    "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-%2410m-seed-consumer-ai-dating-startup-at-jack-jill-4419069247",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "3f068a547b9065ee4ec255ba96359270"
-  },
-  {
-    "title": "Machine Learning Engineer, Capital Underwriting",
-    "company": "Stripe",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-capital-underwriting-at-stripe-4420226497",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "d3b6a7e920a7c532de705403170f4d3d"
-  },
-  {
-    "title": "Machine Learning Engineer (Remote)",
-    "company": "Astrix",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-astrix-4407617674",
-    "description": "",
-    "location": "South San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "c280b87c87c4cbb95473870920c670c7"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Cellanome",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-cellanome-4416891052",
+    "title": "Software Engineer, ML Performance Optimization",
+    "company": "Zoox",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-performance-optimization-at-zoox-4420681236",
     "description": "",
     "location": "Foster City, CA",
     "source": "LinkedIn",
-    "id": "879a6303e2da67791346fe2402fd51ac"
+    "id": "06f97e06acbf370625ce73a13e3967ec"
   },
   {
-    "title": "Data Scientist II, Outcomes Research",
-    "company": "Tempus AI",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-outcomes-research-at-tempus-ai-4418871090",
+    "title": "Founding Engineer ($180K \u2013 $225K + Equity) at a16z-backed autonomous AI app factory",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%E2%80%93-%24225k-%2B-equity-at-a16z-backed-autonomous-ai-app-factory-at-jack-jill-4422011022",
     "description": "",
-    "location": "Redwood City, CA",
+    "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "b0094cd549426ee380742c90a3ee86e0"
+    "id": "a71d4718607fd164230be1fe91a60999"
   },
   {
     "title": "Data Scientist",
-    "company": "SPECTRAFORCE",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-spectraforce-4419908010",
+    "company": "SynergisticIT",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-synergisticit-4420661770",
     "description": "",
-    "location": "Oakland, CA",
+    "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "ace44118df59cb386f894ffaae1b3a5a"
+    "id": "7cfb72212fc48b4277f451ff91352af8"
   },
   {
-    "title": "AI Systems Builder (Impact-Driven) [33162]",
-    "company": "Stealth Startup",
-    "url": "https://www.linkedin.com/jobs/view/ai-systems-builder-impact-driven-33162-at-stealth-startup-4417618608",
+    "title": "Data Scientist",
+    "company": "Deloitte",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-deloitte-4420695365",
     "description": "",
-    "location": "Menlo Park, CA",
+    "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "35a3d518b19815f55fa0fea9a617fecb"
+    "id": "012c3d6a735a92ae67a25081e98586e9"
+  },
+  {
+    "title": "AI Growth Engineer at $3B AUM data-driven venture capital firm",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/ai-growth-engineer-at-%243b-aum-data-driven-venture-capital-firm-at-jack-jill-4422004608",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "00052379131bb940462425a3bb41a26a"
+  },
+  {
+    "title": "Founding Engineer - AI ($200k+ + Equity) at VC-backed pre-construction AI startup",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-ai-%24200k%2B-%2B-equity-at-vc-backed-pre-construction-ai-startup-at-jack-jill-4422009432",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "8e2f361ba1b8c9a2a25232720cf468c7"
+  },
+  {
+    "title": "Founding Engineer ($200k+ + Equity) at VC-backed pre-construction AI startup",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24200k%2B-%2B-equity-at-vc-backed-pre-construction-ai-startup-at-jack-jill-4421789899",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "3b6f3cbf2c9a99f1694e5367d917017f"
   },
   {
     "title": "Founding Engineer ($150k + Equity) at EF-backed AI governance startup",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24150k-%2B-equity-at-ef-backed-ai-governance-startup-at-jack-jill-4419052999",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24150k-%2B-equity-at-ef-backed-ai-governance-startup-at-jack-jill-4421796713",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "a405659269b22e4e108977f24d9f29c6"
+    "id": "3990db0cf0c506fb956549ff0a373bc8"
+  },
+  {
+    "title": "Distributed LLM Inference Engineer",
+    "company": "Anyscale",
+    "url": "https://www.linkedin.com/jobs/view/distributed-llm-inference-engineer-at-anyscale-4408149172",
+    "description": "",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "id": "9eca5fe938753e757e77fb1aa451c7a3"
   },
   {
     "title": "Founding Engineer at Afore Capital-backed AI cost management startup",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-afore-capital-backed-ai-cost-management-startup-at-jack-jill-4419065405",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-afore-capital-backed-ai-cost-management-startup-at-jack-jill-4421796700",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "cd1411111f84642c1746d6e55aeb148e"
+    "id": "a37c6c009a1b6c932fe5e54e62f6cc10"
   },
   {
     "title": "Founding Engineer ($180k-$220k + Equity) at Innovation Endeavors-backed AI agents startup",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%24220k-%2B-equity-at-innovation-endeavors-backed-ai-agents-startup-at-jack-jill-4419076008",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%24220k-%2B-equity-at-innovation-endeavors-backed-ai-agents-startup-at-jack-jill-4422004613",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "e1867a9baa66c5e67c2711271b142768"
-  },
-  {
-    "title": "Founding Engineer ($180k-$220k + Equity) at South Park Commons-backed public safety AI startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%24220k-%2B-equity-at-south-park-commons-backed-public-safety-ai-startup-at-jack-jill-4419059683",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "d7483d1820745d6e73427f3cee6f27d8"
-  },
-  {
-    "title": "Founding Engineer at Stealth-mode Agentic Vision AI Startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-stealth-mode-agentic-vision-ai-startup-at-jack-jill-4419068233",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "485842cc1b98680bdc4ab95ea99cebf5"
-  },
-  {
-    "title": "LLM Inference Frameworks and Optimization Engineer",
-    "company": "Together AI",
-    "url": "https://www.linkedin.com/jobs/view/llm-inference-frameworks-and-optimization-engineer-at-together-ai-4389590528",
-    "description": "",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "id": "56ec635f89484ca1b590689198201c71"
+    "id": "da4a9ef4eb0a9ddd73d8ac04544d3b7e"
   },
   {
     "title": "Full-Stack AI Engineer at legendary Tier-1 venture capital firm",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/full-stack-ai-engineer-at-legendary-tier-1-venture-capital-firm-at-jack-jill-4419070189",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-ai-engineer-at-legendary-tier-1-venture-capital-firm-at-jack-jill-4421795743",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "c42e16e4703e82f754316fac2e150efd"
+    "id": "b6c774c8daa05825905ea03540a31b40"
   },
   {
     "title": "Founding Engineer ($180k-$270k + Equity) at Stealth AI-native Cybersecurity Startup",
     "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%24270k-%2B-equity-at-stealth-ai-native-cybersecurity-startup-at-jack-jill-4419075011",
+    "url": "https://www.linkedin.com/jobs/view/founding-engineer-%24180k-%24270k-%2B-equity-at-stealth-ai-native-cybersecurity-startup-at-jack-jill-4421798662",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "a44efe22d5c71a67795198eeb844c870"
+    "id": "9ac49f2387104bed6d4d8ce82ae07887"
   },
   {
-    "title": "Junior Product Manager \u2014 AI ($60,000 - $65,000 USD) at AI-powered mental health startup",
-    "company": "Jack & Jill",
-    "url": "https://www.linkedin.com/jobs/view/junior-product-manager-%E2%80%94-ai-%2460-000-%2465-000-usd-at-ai-powered-mental-health-startup-at-jack-jill-4419063506",
-    "description": "",
-    "location": "Foster City, CA",
-    "source": "LinkedIn",
-    "id": "7704ae382d123018a4630b2f066380a2"
-  },
-  {
-    "title": "Product Manager, Pay and Safety \u2014 Handshake AI",
-    "company": "Handshake",
-    "url": "https://www.linkedin.com/jobs/view/product-manager-pay-and-safety-%E2%80%94-handshake-ai-at-handshake-4411243688",
+    "title": "Backend Engineer, RCM AI Core",
+    "company": "Commure",
+    "url": "https://www.linkedin.com/jobs/view/backend-engineer-rcm-ai-core-at-commure-4389754782",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "ab558df81cb5af81ae9f334d1c29b170"
+    "id": "b8ae88d010869ada8b658778a4333c65"
   },
   {
-    "title": "Product Manager, AI Growth",
-    "company": "Figma",
-    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-growth-at-figma-4409972813",
+    "title": "AI Engineer Consultant",
+    "company": "Deloitte",
+    "url": "https://www.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4420938453",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "93d2b020ad14ddda922f084a0e19f258"
+    "id": "b428f07b444de58d55bf99cda571c7c0"
   },
   {
-    "title": "AI Product Manager",
-    "company": "Air Apps",
-    "url": "https://www.linkedin.com/jobs/view/ai-product-manager-at-air-apps-4420437446",
+    "title": "Product Manager - AI Platform",
+    "company": "Raydar",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-platform-at-raydar-4420451564",
+    "description": "",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "id": "9b86ffb924dc26a5188a599a1bb200ca"
+  },
+  {
+    "title": "Product Manager, AI",
+    "company": "Nectar Social",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-at-nectar-social-4420677311",
+    "description": "",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "id": "6be3513c5929ff8510b578ddaf4a7a93"
+  },
+  {
+    "title": "Product Manager, AI Ops Assistant",
+    "company": "Spot AI",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-ai-ops-assistant-at-spot-ai-4413518534",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "a93f275b5e691983ed96fd32935d2933"
+    "id": "713d5c727f449b5e001a2a848b3858b2"
   },
   {
-    "title": "Product Manager - Domain-specific AI Enablement (Datagrid)",
-    "company": "Procore Technologies",
-    "url": "https://www.linkedin.com/jobs/view/product-manager-domain-specific-ai-enablement-datagrid-at-procore-technologies-4419987035",
+    "title": "Product Manager, Conversational AI",
+    "company": "Hinge Health",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-conversational-ai-at-hinge-health-4381612498",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "59327c38fa82d48be8fc765b0d3cc393"
+    "id": "fe3830d5d31012206007e5de871719c1"
   },
   {
-    "title": "Product Lead, AI Platform",
-    "company": "Rippling",
-    "url": "https://www.linkedin.com/jobs/view/product-lead-ai-platform-at-rippling-4389403205",
+    "title": "Technical Product Manager, AI Engineering & Systems",
+    "company": "Jerry",
+    "url": "https://www.linkedin.com/jobs/view/technical-product-manager-ai-engineering-systems-at-jerry-4417690554",
+    "description": "",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "id": "207845343e0760c0e8c89db70b516048"
+  },
+  {
+    "title": "Product Manager, Pro Fulfillment",
+    "company": "Thumbtack",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-pro-fulfillment-at-thumbtack-4409666253",
     "description": "",
     "location": "San Francisco, CA",
     "source": "LinkedIn",
-    "id": "efca642fd763ccbbc924d56d0b7b9793"
+    "id": "d9f837f3da0d4ff270adaa0fd908b8ab"
   },
   {
-    "title": "Software Engineer, MLOps, Manufacturing Quality",
-    "company": "Tesla",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-mlops-manufacturing-quality-at-tesla-4420215565",
+    "title": "Software Engineer, ML Systems",
+    "company": "Harmonic",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-systems-at-harmonic-4410862169",
     "description": "",
-    "location": "Fremont, CA",
+    "location": "Palo Alto, CA",
     "source": "LinkedIn",
-    "id": "a7572a29ec1045b11dba884208a5f047"
+    "id": "3e65e2935afdfbf57881e7c09366aaa4"
+  },
+  {
+    "title": "Software Engineer, ML Infrastructure, Level 4",
+    "company": "Snap Inc.",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-infrastructure-level-4-at-snap-inc-4420641495",
+    "description": "",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "id": "24ba8af7455b9cad2fe948bde3b8c094"
+  },
+  {
+    "title": "Machine Learning Engineer, ML Resources",
+    "company": "Waymo",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ml-resources-at-waymo-4404483282",
+    "description": "",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "id": "31b5fadb4a1126b7b301d5b607281297"
+  },
+  {
+    "title": "Machine Learning Inference Engineer",
+    "company": "Oscar Inc",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-inference-engineer-at-oscar-inc-4420947310",
+    "description": "",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "id": "c86c988ff6c617e53dee94435f84b646"
   }
 ]
